@@ -1,0 +1,75 @@
+{
+  "DKI JAKARTA": [
+    { "id": "GMR", "nama": "GAMBIR" },
+    { "id": "PSE", "nama": "PASAR SENEN" },
+    { "id": "JNG", "nama": "JATINEGARA" },
+    { "id": "MRI", "nama": "MANGGARAI" },
+    { "id": "JAKK", "nama": "JAKARTA KOTA" },
+    { "id": "THB", "nama": "TANAH ABANG" }
+  ],
+  "BANTEN": [
+    { "id": "RK", "nama": "RANGKASBITUNG" },
+    { "id": "SG", "nama": "SERANG" },
+    { "id": "CLG", "nama": "CILEGON" },
+    { "id": "MER", "nama": "MERAK" },
+    { "id": "TNG", "nama": "Tangerang" },
+    { "id": "SRP", "nama": "SERPONG" }
+  ],
+  "JAWA BARAT": [
+    { "id": "BD", "nama": "BANDUNG" },
+    { "id": "KAC", "nama": "KIARA CONDONG" },
+    { "id": "BOO", "nama": "BOGOR" },
+    { "id": "BKS", "nama": "BEKASI" },
+    { "id": "CKR", "nama": "CIKARANG" },
+    { "id": "CN", "nama": "CIREBON" },
+    { "id": "CNP", "nama": "CIREBON PRUJAKAN" },
+    { "id": "TSM", "nama": "TASIKMALAYA" },
+    { "id": "BJR", "nama": "BANJAR" },
+    { "id": "PWK", "nama": "PURWAKARTA" },
+    { "id": "CKP", "nama": "CIKAMPEK" },
+    { "id": "JTB", "nama": "JATIBARANG" }
+  ],
+  "JAWA TENGAH": [
+    { "id": "SMT", "nama": "SEMARANG TAWANG" },
+    { "id": "SMC", "nama": "SEMARANG PONCOL" },
+    { "id": "TG", "nama": "TEGAL" },
+    { "id": "PK", "nama": "PEKALONGAN" },
+    { "id": "PWT", "nama": "PURWOKERTO" },
+    { "id": "KYA", "nama": "KROYA" },
+    { "id": "KTA", "nama": "KUTOARJO" },
+    { "id": "SLO", "nama": "SOLO BALAPAN" },
+    { "id": "SK", "nama": "SOLO JEBRES" },
+    { "id": "PWS", "nama": "PURWOSARI" },
+    { "id": "KT", "nama": "KLATEN" },
+    { "id": "CU", "nama": "CEPU" },
+    { "id": "KM", "nama": "KEBUMEN" },
+    { "id": "GB", "nama": "GOMBONG" }
+  ],
+  "DI YOGYAKARTA": [
+    { "id": "YK", "nama": "YOGYAKARTA" },
+    { "id": "LPN", "nama": "LEMPUYANGAN" },
+    { "id": "WT", "nama": "WATES" },
+    { "id": "YIA", "nama": "YOGYAKARTA INTERNATIONAL AIRPORT" }
+  ],
+  "JAWA TIMUR": [
+    { "id": "SGU", "nama": "SURABAYA GUBENG" },
+    { "id": "SBI", "nama": "SURABAYA PASAR TURI" },
+    { "id": "SB", "nama": "SURABAYA KOTA" },
+    { "id": "ML", "nama": "MALANG" },
+    { "id": "MLK", "nama": "MALANG KOTA LAMA" },
+    { "id": "MN", "nama": "MADIUN" },
+    { "id": "JR", "nama": "JEMBER" },
+    { "id": "KTG", "nama": "KETAPANG (BANYUWANGI BARU)" },
+    { "id": "PB", "nama": "PROBOLINGGO" },
+    { "id": "PS", "nama": "PASURUAN" },
+    { "id": "KTS", "nama": "KERTOSONO" },
+    { "id": "JG", "nama": "JOMBANG" },
+    { "id": "KD", "nama": "KEDIRI" },
+    { "id": "BL", "nama": "BLITAR" },
+    { "id": "SDA", "nama": "SIDOARJO" },
+    { "id": "MR", "nama": "MOJOKERTO" },
+    { "id": "BJ", "nama": "BOJONEGORO" },
+    { "id": "LMG", "nama": "LAMONGAN" },
+    { "id": "BG", "nama": "BANGIL" }
+  ]
+}
